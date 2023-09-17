@@ -1,2 +1,2 @@
-# bootcamp23
+# Bootcamp additional materials
 Additional materials for CTU Programming Bootcamp 2023
